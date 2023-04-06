@@ -26,5 +26,6 @@ javascript
 
 
 
-![image](https://user-images.githubusercontent.com/116989625/230242387-54cb6f03-4c6a-4e1a-bb53-c554c837e1ab.png)
 
+
+![as](https://user-images.githubusercontent.com/116989625/230494684-458399ed-9e4e-43d9-ac28-1a43dde6db89.png)
