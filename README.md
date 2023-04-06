@@ -24,6 +24,8 @@ node index.js
 
 javascript
 
+resultado
+
 
 
 
