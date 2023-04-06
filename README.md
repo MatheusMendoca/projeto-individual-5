@@ -13,4 +13,5 @@ Facilitando o dia a dia
 › Clone o repositório https://github.com/MatheusMendoca/projeto-individual-5
 
 › Instale as dependências do projeto usando os comandos a seguir:
+
 npm i readline-sync
