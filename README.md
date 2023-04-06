@@ -23,3 +23,8 @@ node index.js
 ⚙Tecnologias usadas
 
 javascript
+
+
+
+![image](https://user-images.githubusercontent.com/116989625/230242387-54cb6f03-4c6a-4e1a-bb53-c554c837e1ab.png)
+
