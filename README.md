@@ -19,3 +19,7 @@ npm i readline
 › Abra o terminal e use o comando:
 
 node index.js
+
+⚙Tecnologias usadas
+
+javascript
